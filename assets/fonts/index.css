@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-weight: 300;
+  src: url('./fonts/Quicksand-Light.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  font-weight: 400;
+  src: url('./fonts/Quicksand-Regular.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  font-weight: 500;
+  src: url('./fonts/Quicksand-Medium.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  font-weight: 600;
+  src: url('./fonts/Quicksand-SemiBold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  font-weight: bold;
+  src: url('./fonts/Quicksand-Bold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 700;
+  src: url('./fonts/Raleway-Bold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 800;
+  src: url('./fonts/Raleway-ExtraBold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 600;
+  src: url('./fonts/Raleway-SemiBold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 500;
+  src: url('./fonts/Raleway-Medium.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 400;
+  src: url('./fonts/Raleway-Regular.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  src: url('./fonts/Montserrat-Bold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 800;
+  src: url('./fonts/Montserrat-ExtraBold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  src: url('./fonts/Montserrat-SemiBold.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  src: url('./fonts/Montserrat-Medium.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  src: url('./fonts/Montserrat-Regular.ttf') format('woff');
+}
+
+body {
+  margin: 0;
+  font-family: 'Quicksand';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  margin: 0 auto;
+}
